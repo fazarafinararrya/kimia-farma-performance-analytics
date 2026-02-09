@@ -21,4 +21,28 @@ Key metrics include:
 - Gross Profit Percentage
 - Transaction and Branch Ratings
 
-SQL scripts can be found in:
+SQL scripts can be found in: 
+
+bigquery/
+
+
+## 📊 Dashboard (Looker Studio)
+The dashboard includes:
+- KPI Summary (Net Sales, Net Profit, Transactions, Ratings)
+- Year-over-Year Net Sales
+- Top 10 Provinces by Transactions
+- Top 10 Provinces by Net Sales
+- Top 5 Branches with Highest Branch Rating but Lowest Transaction Rating
+- Geographic Distribution of Total Profit by Province
+
+🔗 **Looker Studio Dashboard Link:**  
+(https://lookerstudio.google.com/reporting/08cf62af-deeb-41e7-9889-d392a41d4fbb)
+
+## 🎯 Key Outcome
+This project demonstrates end-to-end analytics skills:
+- Data preparation using SQL (BigQuery)
+- Analytical thinking and metric definition
+- Business-focused data visualization
+
+## 🧑‍💻 Author
+Fazara Finararrya
